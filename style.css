@@ -450,6 +450,9 @@ header .navbar ul li a:hover{
         font-size: 50%;
     }
 
+    header {
+        width: 100vW;
+    }
 }
 
 
